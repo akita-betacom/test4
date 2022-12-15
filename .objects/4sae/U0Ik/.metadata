@@ -1,0 +1,15 @@
+﻿{
+  "Id": "U0IkAjpEBEGq8GPuehLqGg",
+  "Reference": "q4ADWKcU_06SrM8R7bt9AA/U0IkAjpEBEGq8GPuehLqGg",
+  "ParentRef": "q4ADWKcU_06SrM8R7bt9AA/4saeBluyg0-D1wgESz8eIg",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2022-12-14T09:10:04.3324228Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-14T09:10:05.1410384Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

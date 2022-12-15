@@ -1,0 +1,15 @@
+﻿{
+  "Id": "MLAU5EyyIUOPo0blQNhyrA",
+  "Reference": "q4ADWKcU_06SrM8R7bt9AA/MLAU5EyyIUOPo0blQNhyrA",
+  "ParentRef": "q4ADWKcU_06SrM8R7bt9AA/U0IkAjpEBEGq8GPuehLqGg",
+  "Name": "Ekran projektów",
+  "Type": "Screen",
+  "Created": "2022-12-14T09:10:04.5941079Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-14T09:10:05.3659727Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

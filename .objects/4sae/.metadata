@@ -1,0 +1,14 @@
+﻿{
+  "Id": "4saeBluyg0-D1wgESz8eIg",
+  "Reference": "q4ADWKcU_06SrM8R7bt9AA/4saeBluyg0-D1wgESz8eIg",
+  "Name": "Axapta",
+  "Type": "App",
+  "Created": "2022-12-14T09:10:02.878405Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-14T09:10:04.8683746Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
